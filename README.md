@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
