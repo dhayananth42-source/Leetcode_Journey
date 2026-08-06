@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2469-convert-the-temperature](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2469-convert-the-temperature) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## Polygons
