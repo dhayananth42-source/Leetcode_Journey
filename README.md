@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
+| [3516-find-closest-person](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## Polygons
 |  |
