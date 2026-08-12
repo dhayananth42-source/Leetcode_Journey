@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1480-running-sum-of-1d-array) |
+| [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3731-find-missing-elements) |
 ## Math
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
