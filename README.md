@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
 | [3516-find-closest-person](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3894-traffic-signal-color) |
 ## Polygons
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3110-score-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
+| [3894-traffic-signal-color](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
