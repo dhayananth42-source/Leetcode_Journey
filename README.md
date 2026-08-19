@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
