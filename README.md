@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -78,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0925-long-pressed-name](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0925-long-pressed-name) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
