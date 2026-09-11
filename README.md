@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0925-long-pressed-name](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0925-long-pressed-name) |
 | [3110-score-of-a-string](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1748-sum-of-unique-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0925-long-pressed-name](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
