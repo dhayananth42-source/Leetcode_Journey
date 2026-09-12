@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0011-container-with-most-water) |
+| [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
