@@ -1,5 +1,5 @@
 int heightChecker(int* heights, int heightsSize) {
-    int *arr=(int*)malloc(heightsSize*sizeof(int));
+     int arr[heightsSize];
     for(int i=0;i<heightsSize;i++)
     {
         arr[i]=heights[i];
