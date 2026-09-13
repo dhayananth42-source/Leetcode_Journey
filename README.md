@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -98,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
