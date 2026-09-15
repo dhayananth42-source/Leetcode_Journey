@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0925-long-pressed-name](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
@@ -108,8 +110,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
