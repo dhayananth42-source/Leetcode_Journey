@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
