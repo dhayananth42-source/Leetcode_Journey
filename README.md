@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0367-valid-perfect-square) |
 | [2235-add-two-integers](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
