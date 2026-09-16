@@ -1,28 +1,22 @@
 bool isPerfectSquare(int num) {
     long long mid=num/2;
-    if(mid*mid >num)
+    int left=1,right=num;
+    while(left<=right)
     {
-        for(long long i=1;i<mid;i++)
+        if(mid*mid==num)
         {
-            if(i*i==num)
-            {
-                return true;
-            }
+            return true;
         }
-    }
-    else if(mid*mid <num)
-    {
-        for(long long i=mid+1;i<=num;i++)
+        else if(mid*mid >num)
         {
-            if(i*i==num)
-            {
-                return true;
-            }
+            right=mid-1;
         }
-    }
-    else if(mid*mid == num)
-    {
-        return true;
+        else
+        {
+            left=mid+1;
+        }
+        mid=(left+right)/2;
     }
     return false;
+
 }
