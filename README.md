@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
