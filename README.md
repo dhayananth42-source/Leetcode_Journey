@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0595-big-countries) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
