@@ -4,7 +4,7 @@ bool isvowel(char s)
 }
 int maxVowels(char* s, int k) 
 {
-    int left=0,right=k,vowel_count=0,max=0;
+    int left=0,right=k,vowel_count=0,max=0,len=strlen(s);
     for(int i=0;i<k;i++)
     {
         if(isvowel(s[i]))
@@ -13,7 +13,7 @@ int maxVowels(char* s, int k)
         }
     }
     max=vowel_count;
-    while(right< strlen(s))
+    while(right< len)
     {
         if(isvowel(s[left]))
         {
