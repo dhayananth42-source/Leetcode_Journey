@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 ## Counting
 |  |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
