@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1748-sum-of-unique-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3731-find-missing-elements) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
