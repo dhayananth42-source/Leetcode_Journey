@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0182-duplicate-emails) |
+| [0577-employee-bonus](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0595-big-countries) |
 ## Matrix
 |  |
