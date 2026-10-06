@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2404-most-frequent-even-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3894-traffic-signal-color](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3894-traffic-signal-color) |
