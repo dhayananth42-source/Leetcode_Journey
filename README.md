@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1051-height-checker](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1051-height-checker) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0925-long-pressed-name](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0925-long-pressed-name) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3110-score-of-a-string](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3110-score-of-a-string) |
