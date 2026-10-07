@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0035-search-insert-position) |
+| [0200-number-of-islands](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0217-contains-duplicate) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0733-flood-fill) |
 ## Tree
@@ -216,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
