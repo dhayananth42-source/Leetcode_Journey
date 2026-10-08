@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -264,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
