@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3024-type-of-triangle) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
