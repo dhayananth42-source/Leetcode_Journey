@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/dhayananth42-source/Leetcode_Journey/tree/master/3895-count-digit-appearances) |
 ## Polygons
 |  |
 | ------- |
